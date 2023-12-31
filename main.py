@@ -9,11 +9,15 @@ def mediaTwo():
     a = float(a)
     b = float(b)
     c = float(c)
-    print("MEDIA = {:.4f}".format((a*2 + b*3 + c*5)/10))
+    print("MEDIA = {:.1f}".format((a*2 + b*3 + c*5)/10))
+
+# proximas funções...
 
 ######## Inicio do programa ########
 
 # Tem que ter declarado antes pra poder chamar / construir.
+
+# aparentemente o name é um args do python. C e Java tem os seus
 
 if __name__ == "__main__":
     #main()
