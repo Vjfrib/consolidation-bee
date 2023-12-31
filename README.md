@@ -8,4 +8,14 @@ já foram 1 prob. vamos compilar alguns problemas, fazebdo em python.
 [﻿View on canvas](https://app.eraser.io/workspace/UBo9l4gesEVcOOrNvMVZ?elements=e9RDGLGyyaQnED17gC4o5Q) 
 
 
+
+![image.png](/.eraser/UBo9l4gesEVcOOrNvMVZ___ibsr7NFOmZXGn92bwac608CiSpo2___rOqtmjB0O7PyCoQGnaaGf.png "image.png")
+
+
+
+---
+
+
+
+
 <!--- Eraser file: https://app.eraser.io/workspace/UBo9l4gesEVcOOrNvMVZ --->
