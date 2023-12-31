@@ -4,4 +4,8 @@
 já foram 1 prob. vamos compilar alguns problemas, fazebdo em python.
 
 
+
+[﻿View on canvas](https://app.eraser.io/workspace/UBo9l4gesEVcOOrNvMVZ?elements=e9RDGLGyyaQnED17gC4o5Q) 
+
+
 <!--- Eraser file: https://app.eraser.io/workspace/UBo9l4gesEVcOOrNvMVZ --->
