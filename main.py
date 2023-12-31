@@ -5,7 +5,7 @@ if __name__ == "__main__":
     #main()
     mediaTwo()
 
-def mediaTwo
+def mediaTwo():
     # problema 1006
     a = input()
     b = input()
