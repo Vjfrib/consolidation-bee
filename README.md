@@ -19,3 +19,5 @@ já foram 1 prob. vamos compilar alguns problemas, fazebdo em python.
 
 
 <!--- Eraser file: https://app.eraser.io/workspace/UBo9l4gesEVcOOrNvMVZ --->
+
+2 Problemas reslvidos.
