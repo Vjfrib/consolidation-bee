@@ -32,6 +32,6 @@ def diferenca():
 if __name__ == "__main__":
     #main()
     #mediaTwo()
-    diferenca()
+    diferenca() # Mais um, de primeira!
 
 ###
