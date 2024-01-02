@@ -13,6 +13,16 @@ def mediaTwo():
 
 # proximas funções...
 
+def diferenca():
+  a = input()
+  b = input()
+  c = input()
+  d = input()
+  a = int(a)
+  b = int(b)
+  c = int(c)
+  d = int(d)
+  print("DIFERENCA = {}".format(a*b - c*d)) # kkk, a IA já dá o valor
 ######## Inicio do programa ########
 
 # Tem que ter declarado antes pra poder chamar / construir.
