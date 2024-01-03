@@ -14,6 +14,7 @@ def mediaTwo():
 # proximas funções...
 
 def diferenca():
+  # problema 1007
   a = input()
   b = input()
   c = input()
