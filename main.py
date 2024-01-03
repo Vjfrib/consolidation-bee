@@ -2,7 +2,7 @@ def main():
     print("Consolidacoes do Beecrowd (abelheiro, multidão de abelha, enxame")
 
 def mediaTwo():
-    # problema 1006
+    # problema 1006.
     a = input()
     b = input()
     c = input()
@@ -14,7 +14,7 @@ def mediaTwo():
 # proximas funções...
 
 def diferenca():
-  # problema 1007
+  # problema 1007.
   a = input()
   b = input()
   c = input()
